@@ -20,12 +20,6 @@ LED Indicators: Show the status of feeding and potential issues like sensor fail
 Why I Didn't Use It:
 While the system worked well in testing, I ultimately decided not to use it for my cat. I wasn't confident that it would be entirely safe, as there could be risks related to overfeeding or mechanical issues that could harm my cat. While the project was a fun exercise in automation and embedded systems, my cat’s safety comes first.
 
-Setup and Usage
-Wiring: Connect all components to the Arduino according to the schematic.
-Upload the Code: Use the Arduino IDE to upload the provided sketch to the Arduino.
-Set Feeding Schedule: Use the buttons to configure feeding times and portion sizes.
-Testing: Run some tests without food to ensure the system works as expected.
-Monitor for Issues: Keep an eye on the system for any mechanical or software issues.
-Future Improvements
+Future Improvements:
 If I were to revisit this project, I would focus on improving the safety features, perhaps adding sensors to detect the cat’s presence near the feeder and ensuring more robust fail-safes to avoid overfeeding.
 
