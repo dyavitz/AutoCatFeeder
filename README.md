@@ -35,7 +35,10 @@ Provides real-time information about feeding times and settings.
 RTC Module: 
 
 Keeps track of time for feeding schedules.
-LED Indicators: Show the status of feeding and potential issues like sensor failures.
+
+LED Indicators: 
+
+Show the status of feeding and potential issues like sensor failures.
 
 Why I Didn't Use It:
 
